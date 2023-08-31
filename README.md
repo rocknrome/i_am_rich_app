@@ -1,4 +1,4 @@
-![Image Alt Text]([relative_or_absolute_image_url](https://github.com/rocknrome/i_am_rich_app/blob/main/Screenshot%202023-08-31%20175026.png))
+![Image Alt Text](https://github.com/rocknrome/i_am_rich_app/raw/main/Screenshot%202023-08-31%20175026.png)
 
 
 # flutter_application_1
